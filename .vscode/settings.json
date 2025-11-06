@@ -4,7 +4,7 @@
 
   // 既定のフォーマッタを Prettier に固定
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescript]": { "editor.defaultFormatter": "vscode.typescript-language-features" },
   "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[markdown]": {
